@@ -36,15 +36,45 @@ This plan outlines the workflow for a small development team (3 members) using A
 - Team reflects on process efficiency and updates Kanban workflows if needed.
 
 ***
-
-## Example Weekly Kanban Board Columns
-
-| To Do        | In Progress  | Review       | Done         |
-|--------------|--------------|--------------|--------------|
-| Story A      | Story B      | Story C      | Story D      |
-| Bug #124     | Story E      | Bug #125     | Story F      |
+Team is only working **Monday to Friday**, with **Friday as a half day (4 hours)**, the project plan needs to be adjusted so that sprint planning, development, reviews, and retrospectives all fit into that condensed schedule.  
 
 ***
+
+## **Adjusted Weekly Timeline (1-Week Sprint)**
+
+| Day      | Hours | Activity |
+|----------|-------|----------|
+| **Monday** | Full day | **Sprint Planning (AM)** – Define goals, break stories into tasks with AI estimation, set up Kanban. <br> **Development (PM)** – Start high-priority tasks. |
+| **Tuesday** | Full day | Development + AI-assisted code reviews, daily stand-up (AM), Kanban updates. |
+| **Wednesday** | Full day | Development focus, AI monitors bottlenecks, daily stand-up. |
+| **Thursday** | Full day | Finish feature work, start code review/testing. AI generates documentation for completed tasks. |
+| **Friday** | 4 hours | **Morning:** Wrap up remaining reviews & bug fixes. <br> **Late morning:** Sprint Demo & Retrospective. No sprint work in the afternoon. |
+| **Saturday/Sunday** | — | No work time — AI can run automated reports or alerts asynchronously for Monday review. |
+
+***
+
+## **Key Changes for Shorter Work Week**
+1. **Front-load development tasks** early in the week (Mon–Wed), leaving Thu–Fri for review, testing, and wrap-up.
+2. Move **Sprint Review & Retrospective** to Friday morning to align with your reduced Friday hours.
+3. Use AI to help **prep sprint planning in advance** (e.g., backlog grooming on Thursday or Friday afternoon from the previous sprint).
+4. Keep **WIP (Work in Progress) limits tighter**, since you have ~36 working hours per member per week instead of 40.
+
+***
+
+## **Example Kanban Workflow**
+**To Do → In Progress → Review/Test → Done**
+
+- **Monday:** Fill "To Do" with prioritized tasks; assign work.
+- **Tuesday–Wednesday:** Move tasks to "In Progress"; AI monitors progress.
+- **Thursday:** Push most work to "Review/Test".
+- **Friday morning:** Complete tasks, mark as "Done", AI generates sprint summary.
+
+***
+
+## **AI Assistance Points (Optimized for Time)**
+- **Monday morning:** Suggest optimal priority ordering so you start strongest.
+- **Mid-week:** Flag at-risk tasks so they can be addressed before Thursday.
+- **Friday early morning:** Auto-generate release notes and a retrospective outline for the team
 
 ## AI Integration Points
 
